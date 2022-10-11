@@ -1,8 +1,7 @@
 - 👋 Hi, I’m *Sourabh Bisht*
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in *Remote Internships*
+- 🌱 I’m currently practicing *React* 
+- 💞️ I’m looking to collaborate & contribute to *Open Source projects*
 
 **Technologies**
   
@@ -20,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
-**Let's connect on** 
+**📫 How to reach me** 
 
   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
