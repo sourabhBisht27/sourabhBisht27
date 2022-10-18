@@ -30,4 +30,4 @@ sourabhBisht27/sourabhBisht27 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht27)](https://github.com/sourabhBisht27/sourabhBisht27)
+[![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht27&show_icons=true&theme=radical)](https://github.com/sourabhBisht27/sourabhBisht27)
