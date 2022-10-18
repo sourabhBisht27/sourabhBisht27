@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
-**📫 How to reach me** 
+**📫 HOW TO REACH ME** 
 
   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -30,5 +30,8 @@ sourabhBisht27/sourabhBisht27 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+**MY GITHUB STATS**
 [![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht27&show_icons=true&theme=radical)](https://github.com/sourabhBisht27/sourabhBisht27)
+
+**LANGUAGES I WORK ON**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhBisht27&count_private=true&layout=compact)](https://github.com/sourabhBisht27/github-readme-stats)
