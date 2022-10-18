@@ -30,9 +30,5 @@ sourabhBisht27/sourabhBisht27 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/sourabhBisht27/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhBisht27&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/sourabhBisht27/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhBisht27&repo=convoychat" />
-</a>
+[![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht27&show_icons=true&theme=radical)](https://github.com/sourabhBisht27/sourabhBisht27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhBisht27&layout=compact)](https://github.com/sourabhBisht27/github-readme-stats)
