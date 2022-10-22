@@ -23,10 +23,6 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhBisht27&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sourabhBisht&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhBisht27&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
 </details>
-
-**LANGUAGES I WORK ON** </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhBisht27&count_private=true&layout=compact)](https://github.com/sourabhBisht27/github-readme-stats)
