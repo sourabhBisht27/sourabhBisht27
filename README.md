@@ -5,7 +5,7 @@
 
 **🧑‍💻 Technologies**
   
-  [![My Skills](https://skillicons.dev/icons?i=java, html, css, js, bootstrap,  jquery, mongodb, express, react, nodejs, git, github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 **📫 HOW TO REACH ME** 
 
