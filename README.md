@@ -1,13 +1,10 @@
-- 👋 Hi, I’m *Sourabh Bisht*
-- 👀 I’m interested in *Remote Internships*
-- 🌱 I’m currently practicing *React* 
-- 💞️ I’m looking to collaborate & contribute to *Open Source projects*
+  # Hey There! 👋
 
-  🧑‍💻 **Technologies**
+  🧑‍💻 **SKILLS**
   
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,jquery,mongodb,express,react,nodejs,git,github)](https://skillicons.dev)
   
-  📫 **SKILLS** 
+  📫 **CONNECT WITH ME** 
 
   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
