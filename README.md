@@ -1,4 +1,4 @@
-  # Hey There! 👋 Sourabh Bisht this side 
+  # Hey There! Sourabh Bisht this side👋  
 
   🧑‍💻 **SKILLS**
   
