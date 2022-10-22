@@ -3,11 +3,11 @@
 - 🌱 I’m currently practicing *React* 
 - 💞️ I’m looking to collaborate & contribute to *Open Source projects*
 
-**🧑‍💻 Technologies**
+  🧑‍💻 **Technologies**
   
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,jquery,mongodb,express,react,nodejs,git,github)](https://skillicons.dev)
   
-**📫 SKILLS ** 
+  📫 **SKILLS** 
 
   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,8 +17,6 @@
 sourabhBisht27/sourabhBisht27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-**MY GITHUB STATS** </br>
 
 <details>
   <summary>Github Stats ⚡</summary>
