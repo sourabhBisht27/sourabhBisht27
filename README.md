@@ -2,7 +2,7 @@
 
   🧑‍💻 **SKILLS**
   
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,jquery,mongodb,express,react,nodejs,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,jquery,mongodb,express,react,nodejs,git,github&perline=6)](https://skillicons.dev)
   
   📫 **CONNECT WITH ME** 
 
