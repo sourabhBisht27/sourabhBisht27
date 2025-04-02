@@ -5,11 +5,11 @@
   <img src="https://shorturl.at/In5Su" alt="Shanks" width="350" style="border-radius: 10px;" />
 </div>
 
-## A Fullstack Developer passionate about web technologies and software development.
+## I'm a Fullstack Developer specializing in MERN continuosly learning and expandingmy skillset. Here you'll find projects shwocasing my proficiency along with my dedication to creating impactful web solutions.
 
 ---
 
-### 🛠️ Technologies & Tools
+### My Main Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 
 ---
 
-### 📫 How to reach me
+### Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/yourusername](https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar">
