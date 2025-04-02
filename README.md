@@ -11,7 +11,11 @@
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,ts,nodejs,express,react,mongodb,mysql,sequelize,git,github,firebase,netlify,postman)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,ts,nodejs,express,react,mongodb,mysql,sequelize,git,github,firebase,netlify,postman,vscode,vite" />
+  </a>
+</p>
 
 ---
 
