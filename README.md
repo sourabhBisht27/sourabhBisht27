@@ -11,22 +11,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-  <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
-  <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/jQuery-323330?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,ts,nodejs,express,react,mongodb,mysql,sequelize,git,github,firebase,netlify,postman)](https://skillicons.dev)
 
 ---
 
