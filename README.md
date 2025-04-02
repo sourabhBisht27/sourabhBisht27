@@ -22,13 +22,7 @@
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="[[https://instagram.com/yourusername](https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar)]">
+  <a href="https://instagram.com/yourusername](https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://linkedin.com/in/iamsourabh125/">
