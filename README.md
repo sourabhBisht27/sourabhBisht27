@@ -27,16 +27,16 @@
 
 <div>
   <p align="center">
-    <a href="https://instagram.com/yourusername](https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar">
+    <a href="https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://linkedin.com/in/iamsourabh125/">
+    <a href="https://linkedin.com/in/iamsourabh125/" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="mailto:cssourabh27@gmail.com">
+    <a href="mailto:cssourabh27@gmail.com" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>
-    <a href="https://github.com/sourabhBisht27">
+    <a href="https://github.com/sourabhBisht27" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </p>
