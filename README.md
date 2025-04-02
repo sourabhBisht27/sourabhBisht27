@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,ts,nodejs,express,react,mongodb,mysql,sequelize,git,github,firebase,netlify,postman,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,ts,nodejs,express,react,mongodb,mysql,sequelize,git,github,firebase,netlify,postman,vscode,vite&perline=8" />
   </a>
 </p>
 
@@ -22,10 +22,24 @@
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/iamsourabh125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sourabhBisht27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="[[https://instagram.com/yourusername](https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar)]">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/iamsourabh125/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:cssourabh27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://github.com/sourabhBisht27">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
