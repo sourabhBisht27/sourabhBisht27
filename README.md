@@ -5,7 +5,7 @@
   <img src="https://shorturl.at/In5Su" alt="Shanks" width="350" style="border-radius: 10px;" />
 </div>
 
-## I'm a Fullstack Developer specializing in MERN continuosly learning and expandingmy skillset. Here you'll find projects shwocasing my proficiency along with my dedication to creating impactful web solutions.
+### I'm a Fullstack Developer specializing in MERN continuosly learning and expandingmy skillset. Here you'll find projects shwocasing my proficiency along with my dedication to creating impactful web solutions.
 
 ---
 
