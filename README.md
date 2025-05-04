@@ -2,7 +2,7 @@
 
 <div align="center" style="border: 2px solid #009688; width:350px height:350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px; background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,121,113,1) 35%, rgba(0,212,255,1) 100%);">
   <h1 style="font-family: 'Trebuchet MS', sans-serif; color: white;">
-  <img src="https://shorturl.at/In5Su" alt="Shanks" width="350" style="border-radius: 10px;" />
+  <img src="https://shorturl.at/xdZWH" alt="Shanks" width="350" style="border-radius: 10px;" />
 </div>
 
 ### I'm a Fullstack Developer specializing in MERN continuosly learning and expandingmy skillset. Here you'll find projects shwocasing my proficiency along with my dedication to creating impactful web solutions.
