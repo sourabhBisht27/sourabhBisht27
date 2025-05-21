@@ -1,15 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D9BED1&height=120&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=30" alt="header"/>
 
-<div align="center" style="border: 2px solid #009688; width:350px height:350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px; background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,121,113,1) 35%, rgba(0,212,255,1) 100%);">
+<div align="center">
   <h1 style="font-family: 'Trebuchet MS', sans-serif; color: white;">
-  <img src="https://shorturl.at/q55ZM" alt="Shanks" width="350" style="border-radius: 10px;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN0ZnRrcGZsNXM1YXFmeTY4dzhyYzFkbHV2eGI2ajgyanlsNW10aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jl0cX7xriU4o9eEL3D/giphy.gif" alt="Shanks GIF" width="350" style="border-radius: 10px;" />
+  </h1>
 </div>
 
-### I'm a Fullstack Developer specializing in MERN continuosly learning and expandingmy skillset. Here you'll find projects shwocasing my proficiency along with my dedication to creating impactful web solutions.
+### I'm a Fullstack Developer specializing in MERN, continuously learning and expanding my skill set.  
+Here you'll find projects showcasing my proficiency along with my dedication to creating impactful web solutions.
 
 ---
 
-### Main Skills
+### 🚀 Main Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,26 +21,23 @@
 
 ---
 
-### Connect With Me
+### 🤝 Connect With Me
 
-<div>
-  <p align="center">
-    <a href="https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    <a href="https://linkedin.com/in/iamsourabh125/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="mailto:cssourabh27@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
-    </a>
-    <a href="https://github.com/sourabhBisht27">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/nonsmoke_sanji/?locale=ne_NP&hl=ar">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/iamsourabh125/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:cssourabh27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://github.com/sourabhBisht27">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D9BED1&height=120&section=footer" alt="footer"/>
